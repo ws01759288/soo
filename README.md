@@ -46,6 +46,7 @@
 `7.6.7`版（<http://download.sangfor.com.cn/download/product/sslvpn/pkg/linux_767/EasyConnect_x64_7_6_7_3.deb>）.
 
 `7.6.8`版（仅命令行）（<https://github.com/shmilee/scripts/releases/download/v0.0.1/easyconn_7.6.8.2-ubuntu_amd64.deb>）.
+
 未测试:
 '7.6.7.4'版
 (https://github.com/ws01759288/EasyConnect/releases/download/7.6.7.4/EasyConnect7.6.7.4.deb) .
