@@ -46,7 +46,9 @@
 `7.6.7`版（<http://download.sangfor.com.cn/download/product/sslvpn/pkg/linux_767/EasyConnect_x64_7_6_7_3.deb>）.
 
 `7.6.8`版（仅命令行）（<https://github.com/shmilee/scripts/releases/download/v0.0.1/easyconn_7.6.8.2-ubuntu_amd64.deb>）.
-
+未测试:
+'7.6.7.4'版
+(https://github.com/ws01759288/EasyConnect/releases/download/7.6.7.4/EasyConnect7.6.7.4.deb) .
 如果需要测试其他 EasyConnect 版本，可以将该版本的 deb 安装包下载地址写入到文本文件 `ec_urls/版本号.txt` 中，使用[构建说明](doc/build.md#从-dockerfile-构建)中的方法进行构建。
 
 ## 拉取
